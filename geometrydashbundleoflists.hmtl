@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geometry Dash Bundle of Lists</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align:center;">Geometry Dash Lists</h1>
+    </header>
+    <img src="https://motionbgs.com/media/8267/geometry-dash-game.3840x2160.jpg" 
+    style="width:600px; height:auto; display:block; margin-left:auto; margin-right:auto;"
+    alt="Geometry Dash Background">
+    <h2 style="text-align:center;">A handy page where you can find all sorts of Geometry Dash Lists!</h2>
+<table border="1" width="100%" style="border-collapse: collapse; text-align:center;">
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <th>Pointercrate</th>
+        <td>Pointercrate is the main demon list for Geometry Dash, featuring the top 150 extreme demons in the game, alongside legacy levels.</td>
+        <td><a href="https://www.pointercrate.com/demonlist/" target="_blank">Pointercrate Demon List</a></td>
+    </tr>
+    <tr>
+        <th>AREDL</th>
+        <td>AREDL is a demon list featuring all rated extreme demons in the game.</td>
+        <td><a href="https://aredl.net" target="_blank">AREDL Demon List</a></td>
+    </tr>
+    <tr>
+        <th>ILL</th>
+        <td>ILL is a demon list featuring all non-verified upcoming top 1s and all humanly impossible levels in the game. Also features a sub-list, called the Silent Levels List.</td>
+        <td><a href="https://impossiblelevels.com" target="_blank">ILL Demon List</a></td>
+    </tr>
+    <tr>
+        <th>PPLL</th>
+        <td>PPLL is a demon list featuring non-verified extreme demons that should be physically possible by bots. All levels are harder than Top 1 ILL.</td>
+        <td><a href="https://docs.google.com/document/d/1RZ524Gsou0w4djb3I13vvYV6Q9pp77UjlJkS_Et8b28/edit?tab=t.0#heading=h.b5upf53xta3v" target="_blank">PPLL Demon List</a></td>
+    </tr>
+    <tr>
+        <th>The Easiest Demon List</th>
+        <td>The Easiest Demon List features the easiest demons in Geometry Dash.</td>
+        <td><a href="https://docs.google.com/document/d/1v3s0daQHx1unRCTbXt5BRvswVcYrQc5E4CTnaUYSS20/edit?tab=t.0" target="_blank">The Easiest Demon List</a></td>
+    </tr>
+    <tr>
+        <th>Nine Circles Demon List</th>
+        <td>NCDL is a demon list featuring all Nine Circles demons in the game, from hardest to easiest.</td>
+        <td><a href="https://ninecirclesdemonlist.com" target="_blank">Nine Circles Demon List</a></td>
+    </tr>
+    <tr>
+        <th>Easy Demon List</th>
+        <td>The Easy Demon List features the top easy demons in Geometry Dash.</td>
+        <td><a href="https://easydemonlist.pages.dev/#/" target="_blank">Easy Demon List</a></td>
+    </tr>
+    <tr>
+        <th>Medium Demon List</th>
+        <td>The Medium Demon List features the top medium demons in Geometry Dash.</td>
+        <td><a href="https://mediumdemonslist.pages.dev/#/" target="_blank">Medium Demon List</a></td>
+    </tr>
+    <tr>
+        <th>Hard Demon List</th>
+        <td>The Hard Demon List features the top hard demons in Geometry Dash.</td>
+        <td><a href="https://hdl.pages.dev/#/" target="_blank">Hard Demon List</a></td>
+    </tr>
+    <tr>
+        <th>Insane Demon List</th>
+        <td>The Insane Demon List features the top insane demons in Geometry Dash.</td>
+        <td><a href="https://insanedemonlist.com" target="_blank">Insane Demon List</a></td>
+    </tr>
+    <tr>
+        <th>The Shitty List</th>
+        <td>The Shitty List ranks shitty levels in Geometry Dash. Shitty levels are nerfed versions of existing levels, remade with grid blocks. They make the hardest levels more accessible to the average player.</td>
+        <td><a href="https://tsl.pages.dev/#/" target="_blank">The Shitty List</a></td>
+    </tr>
+</table>
+<h3 style="text-align: center;">Realised by @themanbehindyourlaptop15 on GitHub, @StrikeyX on Geometry Dash. I do not own any of the lists above, nor am I affiliated with any of the creators. Credits remain to all the individual, implied creators.</h3>
+<footer style="text-align: center;">
+    <p>© 2026 Geometry Dash Bundle of Lists by E. Grigoriu. All rights reserved. Version 1.0.0</p>
+</footer>
+    </body>
